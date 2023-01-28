@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkprojeto_quentinha_vue"]=self["webpackChunkprojeto_quentinha_vue"]||[]).push([[550],{757:function(n,e,t){t.r(e),t.d(e,{default:function(){return h}});var u=t(252);const r={class:"main-container"},a=(0,u._)("h1",null,"PEDIDOS",-1),c=[a];function i(n,e){return(0,u.wg)(),(0,u.iD)("div",r,c)}var o=t(744);const s={},f=(0,o.Z)(s,[["render",i]]);var h=f}}]);
+//# sourceMappingURL=pedidos.1f9550cf.js.map
