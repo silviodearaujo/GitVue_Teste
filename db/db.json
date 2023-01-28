@@ -1,0 +1,85 @@
+{
+    "ingredientes": {
+      "tamanhos": [
+        {
+          "id": 1,
+          "tipo": "Pequena - 250gr"
+        },
+        {
+          "id": 2,
+          "tipo": "Média - 350gr"
+        },
+        {
+          "id": 3,
+          "tipo": "Grande - 500gr"
+        },
+        {
+          "id": 4,
+          "tipo": "Gigante - 1kg"
+        }
+      ],
+      "proteinas": [
+        {
+          "id": 1,
+          "tipo": "Carne"
+        },
+        {
+          "id": 2,
+          "tipo": "Peixe"
+        },
+        {
+          "id": 3,
+          "tipo": "Frango"
+        },
+        {
+          "id": 4,
+          "tipo": "Soja"
+        }
+      ],
+      "opcionais": [
+        {
+          "id": 1,
+          "tipo": "Feijão de caldo"
+        },
+        {
+          "id": 2,
+          "tipo": "Arroz"
+        },
+        {
+          "id": 3,
+          "tipo": "Macarrão"
+        },
+        {
+          "id": 4,
+          "tipo": "Alface"
+        },
+        {
+          "id": 4,
+          "tipo": "Tomate"
+        },
+        {
+          "id": 4,
+          "tipo": "Cebola"
+        }
+      ]
+    },
+    "status": [
+      {
+        "id": 1,
+        "tipo": "Solicitado"
+      },
+      {
+        "id": 2,
+        "tipo": "Em produção"
+      },
+      {
+        "id": 3,
+        "tipo": "A caminho"
+      },
+      {
+        "id": 4,
+        "tipo": "Finalizado"
+      }
+    ],
+    "historico": []
+  }
